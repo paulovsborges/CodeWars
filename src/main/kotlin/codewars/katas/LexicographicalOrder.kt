@@ -13,6 +13,6 @@ class LexicographicalOrder : ILexicographicalOrder {
             }?.let {
                 true
             } ?: false
-        }.distinct().sortedBy { it }
+        }.distinct().sorted()
     }
 }
