@@ -1,6 +1,8 @@
 package codewars
 
-import org.junit.jupiter.api.Test
+import codewars.katas.ConvertHexToRgb
+import codewars.katas.IConvertHexToRgb
+import codewars.katas.RGB
 import org.junit.jupiter.api.TestInstance
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments

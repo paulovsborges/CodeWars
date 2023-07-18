@@ -1,6 +1,4 @@
-package codewars
-
-import java.awt.Color
+package codewars.katas
 
 interface IConvertHexToRgb {
     operator fun invoke(hexString: String): RGB

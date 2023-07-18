@@ -1,4 +1,4 @@
-package codewars
+package codewars.katas
 
 interface IAreTheyTheSame {
     operator fun invoke(

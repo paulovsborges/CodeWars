@@ -1,4 +1,4 @@
-package codewars
+package codewars.katas
 
 interface IWordsSpinner {
     operator fun invoke(input: String): String

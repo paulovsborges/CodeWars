@@ -1,5 +1,7 @@
 package codewars
 
+import codewars.katas.AreTheyTheSame
+import codewars.katas.IAreTheyTheSame
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.TestInstance
 import org.junit.jupiter.params.ParameterizedTest
